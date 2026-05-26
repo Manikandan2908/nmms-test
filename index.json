@@ -8,20 +8,5 @@
     "id": 2,
     "title": "Science Test",
     "file": "tests/science_test.json"
-  },
-  {
-    "id": 3,
-    "title": "History Test",
-    "file": "tests/history_test.json"
-  },
-  {
-    "id": 4,
-    "title": "English Grammar Test",
-    "file": "tests/english_test.json"
-  },
-  {
-    "id": 5,
-    "title": "Dummy Test",
-    "file": "tests/dummy_test.json"
   }
 ]
