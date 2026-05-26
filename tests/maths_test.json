@@ -1,0 +1,125 @@
+{
+  "title": "Mathematics Test",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is 25 + 17?",
+      "options": ["40", "42", "45", "47"],
+      "answer": "42"
+    },
+    {
+      "id": 2,
+      "question": "What is 12 × 9?",
+      "options": ["108", "96", "102", "110"],
+      "answer": "108"
+    },
+    {
+      "id": 3,
+      "question": "Square root of 64?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "id": 4,
+      "question": "What is 100 ÷ 4?",
+      "options": ["20", "25", "30", "40"],
+      "answer": "25"
+    },
+    {
+      "id": 5,
+      "question": "What is 15% of 200?",
+      "options": ["20", "25", "30", "35"],
+      "answer": "30"
+    },
+    {
+      "id": 6,
+      "question": "What is 7²?",
+      "options": ["42", "48", "49", "56"],
+      "answer": "49"
+    },
+    {
+      "id": 7,
+      "question": "What is 81 ÷ 9?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "9"
+    },
+    {
+      "id": 8,
+      "question": "What is 13 + 29?",
+      "options": ["40", "41", "42", "43"],
+      "answer": "42"
+    },
+    {
+      "id": 9,
+      "question": "What is 14 × 3?",
+      "options": ["40", "42", "44", "46"],
+      "answer": "42"
+    },
+    {
+      "id": 10,
+      "question": "What is 144 ÷ 12?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "id": 11,
+      "question": "Cube of 3?",
+      "options": ["6", "9", "18", "27"],
+      "answer": "27"
+    },
+    {
+      "id": 12,
+      "question": "What is 90 - 45?",
+      "options": ["35", "40", "45", "50"],
+      "answer": "45"
+    },
+    {
+      "id": 13,
+      "question": "Half of 250?",
+      "options": ["100", "115", "120", "125"],
+      "answer": "125"
+    },
+    {
+      "id": 14,
+      "question": "What is 11 × 11?",
+      "options": ["111", "121", "131", "141"],
+      "answer": "121"
+    },
+    {
+      "id": 15,
+      "question": "What is 5³?",
+      "options": ["25", "75", "100", "125"],
+      "answer": "125"
+    },
+    {
+      "id": 16,
+      "question": "What is 17 + 18?",
+      "options": ["33", "34", "35", "36"],
+      "answer": "35"
+    },
+    {
+      "id": 17,
+      "question": "What is 99 - 11?",
+      "options": ["77", "88", "89", "90"],
+      "answer": "88"
+    },
+    {
+      "id": 18,
+      "question": "What is 6 × 8?",
+      "options": ["42", "48", "54", "56"],
+      "answer": "48"
+    },
+    {
+      "id": 19,
+      "question": "What is 200 ÷ 10?",
+      "options": ["10", "15", "20", "25"],
+      "answer": "20"
+    },
+    {
+      "id": 20,
+      "question": "What is 19 + 21?",
+      "options": ["38", "39", "40", "41"],
+      "answer": "40"
+    }
+  ]
+}
