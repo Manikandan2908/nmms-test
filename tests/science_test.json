@@ -1,0 +1,125 @@
+{
+  "title": "Science Test",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Earth", "Mars", "Mercury", "Venus"],
+      "answer": "Mercury"
+    },
+    {
+      "id": 2,
+      "question": "What gas do humans breathe in?",
+      "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Helium"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 3,
+      "question": "Boiling point of water?",
+      "options": ["50°C", "75°C", "100°C", "120°C"],
+      "answer": "100°C"
+    },
+    {
+      "id": 4,
+      "question": "Which organ pumps blood?",
+      "options": ["Lungs", "Heart", "Brain", "Kidney"],
+      "answer": "Heart"
+    },
+    {
+      "id": 5,
+      "question": "Largest planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "id": 6,
+      "question": "Plants make food by?",
+      "options": ["Digestion", "Photosynthesis", "Respiration", "Absorption"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": 7,
+      "question": "Human body has how many lungs?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "id": 8,
+      "question": "Which vitamin comes from sunlight?",
+      "options": ["A", "B", "C", "D"],
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Which animal lays eggs?",
+      "options": ["Cow", "Dog", "Hen", "Cat"],
+      "answer": "Hen"
+    },
+    {
+      "id": 10,
+      "question": "Water freezes at?",
+      "options": ["0°C", "10°C", "20°C", "32°C"],
+      "answer": "0°C"
+    },
+    {
+      "id": 11,
+      "question": "Earth revolves around?",
+      "options": ["Moon", "Mars", "Sun", "Venus"],
+      "answer": "Sun"
+    },
+    {
+      "id": 12,
+      "question": "Which is a mammal?",
+      "options": ["Snake", "Whale", "Frog", "Fish"],
+      "answer": "Whale"
+    },
+    {
+      "id": 13,
+      "question": "Which part helps plants absorb water?",
+      "options": ["Leaf", "Flower", "Root", "Stem"],
+      "answer": "Root"
+    },
+    {
+      "id": 14,
+      "question": "Which gas do plants release?",
+      "options": ["Hydrogen", "Oxygen", "Helium", "Nitrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 15,
+      "question": "How many planets are in the solar system?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "8"
+    },
+    {
+      "id": 16,
+      "question": "Which is the fastest land animal?",
+      "options": ["Tiger", "Lion", "Horse", "Cheetah"],
+      "answer": "Cheetah"
+    },
+    {
+      "id": 17,
+      "question": "Which blood cells fight germs?",
+      "options": ["Red", "White", "Platelets", "Blue"],
+      "answer": "White"
+    },
+    {
+      "id": 18,
+      "question": "What is H2O?",
+      "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+      "answer": "Water"
+    },
+    {
+      "id": 19,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Earth", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "id": 20,
+      "question": "Which sense organ helps us hear?",
+      "options": ["Eye", "Nose", "Ear", "Skin"],
+      "answer": "Ear"
+    }
+  ]
+}
